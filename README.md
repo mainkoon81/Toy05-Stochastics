@@ -15,7 +15,7 @@ stochastic process +
    - property 02. The probability of union of ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{1},\Lambda_{2},..) is the sum of each probabilities of  ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{i}): **P(**![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{1}) U ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{2}) U ...**)** = ![formula](https://render.githubusercontent.com/render/math?math=\Sigma)**P(**![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{i})**)**
      - so...in Bernoullie case, if P(0)=p, then P(1)=1-p
 
-### Random variable? 
+### Random variable with the measurable function ssai? 
 <img src="https://user-images.githubusercontent.com/31917400/90982586-ebdcee80-e55f-11ea-9e28-376a9ee26405.jpg" />
 
 
