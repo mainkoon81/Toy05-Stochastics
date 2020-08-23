@@ -23,6 +23,7 @@ stochastic process +
 - Random Function?
 
 - Random Process?
+  : It is a time-varying function that assigns the outcome of a random experiment to each time instant: X(`t`). so...for a fixed `t`, it becomes a random variable! 
 
 
 
