@@ -17,7 +17,7 @@ stochastic process +
      - so...in Bernoullie case, if P(0)=p, then P(1)=1-p
 
 ### Random variable with the measurable function ssai? 
-<img src="https://user-images.githubusercontent.com/31917400/90982586-ebdcee80-e55f-11ea-9e28-376a9ee26405.jpg" />
+<img src="https://user-images.githubusercontent.com/31917400/90989160-6291e000-e590-11ea-9f72-ef7645c65a18.jpg" />
 
 ### Random Function and Random Process
 - Random Function?
