@@ -4,7 +4,7 @@ stochastic process +
 
 ### Basic Probability Space: 
 1. Sample Space `Ω`: a space of any nature which includes **all possible outcomes** of an experiment...such as **{0, 1}**: binary outcome..
-2. Power_Set ![formula](https://render.githubusercontent.com/render/math?math=2^\Omega): a collection of all sebsets of Ω...such as {Φ},{0},{1},**{0, 1}**..
+2. Power_Set ![formula](https://render.githubusercontent.com/render/math?math=2^\Omega): a collection of all sebsets of Ω...such as {Φ},{0},{1},**{0, 1}**..we can say the Power_Set is the largest Sigma_field!!!
 3. Sigma_Algebra(field) on Ω...let's call `F`: a bunch of subsets collected from the Power_Set ![formula](https://render.githubusercontent.com/render/math?math=2^\Omega).
  - property 01. ![formula](https://render.githubusercontent.com/render/math?math=\Omega\in)`F`
  - property 02. `F` is closed under complementation ( if...![formula](https://render.githubusercontent.com/render/math?math=\Lambda\in\F), then ![formula](https://render.githubusercontent.com/render/math?math=\Lambda^c\in\F) as well )
