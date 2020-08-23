@@ -19,6 +19,10 @@ stochastic process +
 ### Random variable with the measurable function ssai? 
 <img src="https://user-images.githubusercontent.com/31917400/90982586-ebdcee80-e55f-11ea-9e28-376a9ee26405.jpg" />
 
+### Random Function and Random Process
+- Random Function?
+
+- Random Process?
 
 
 
