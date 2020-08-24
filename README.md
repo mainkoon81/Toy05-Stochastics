@@ -20,12 +20,12 @@ stochastic process +
 <img src="https://user-images.githubusercontent.com/31917400/90989160-6291e000-e590-11ea-9f72-ef7645c65a18.jpg" />
 
 ### Random Function and Random Process
-- Random Function?
+- Random Function **X(`t`)** ?
 
   : It is a function of an arbitrary argument `t` whose values are defined in terms of a certain experiment and may vary with the outcome of this experiment according to a given probability distribution. 
 - Random Process?
 
-  : It is simply a collection of random variables indexed by time. It is a time-varying function that assigns the outcome of a random experiment to each time instant: X(`t`). so...for a fixed `t`, it becomes a random variable! 
+  : It is simply a collection of random functions indexed by time. It is a time-varying function that assigns the outcome of a random experiment to each time instant: X(`t`). so...for a fixed `t`, it becomes a random variable! 
 
 
 
