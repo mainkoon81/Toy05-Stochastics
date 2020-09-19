@@ -1,10 +1,10 @@
 # Toy05-Stochastics
 stochastic process + 
 
-
 ### Basic Probability Space (`Ω`, `F`, `P`): 
  - `∩` : AND
  - `u` : OR
+<img src="https://user-images.githubusercontent.com/31917400/93689207-233dad00-fac4-11ea-98a2-9500e607884b.jpg" />
 
 1. **[Sample Space] `Ω`**: a space that includes **all possible outcomes** of an experiment...such as **{0, 1}** for binary outcomes..
 2. Power_Set ![formula](https://render.githubusercontent.com/render/math?math=2^\Omega): a collection of all sebsets of Ω...including all possible combinations of the elements such as {Φ},{0},{1},**{0, 1}** for binary outcomes..we can say the Power_Set is the **largest Sigma_field**!!!
