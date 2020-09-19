@@ -16,7 +16,8 @@ stochastic process +
  
 4. **[Probability Measure] `Ρ`**:  
    - property 01. The probability of the sample space `Ω` should be equal to one: **P(`Ω`) = 1** 
-   - property 02. The probability of union of ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{1},\Lambda_{2},..) is the sum of each probabilities of  ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{i}): **P(**![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{1}) U ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{2}) U ...**)** = ![formula](https://render.githubusercontent.com/render/math?math=\Sigma)**P(**![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{i})**)**
+   - property 02. The probability of union of ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{1},\Lambda_{2},..) is the sum of each probabilities of  ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{i}): 
+     - **P(**![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{1}) U ![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{2}) U ...**)** = ![formula](https://render.githubusercontent.com/render/math?math=\Sigma)**P(**![formula](https://render.githubusercontent.com/render/math?math=\Lambda_{i})**)**
      - so...in Bernoullie case, if P(0)=p, then P(1)=1-p
 
 ### Random variable with the measurable function ssai? 
